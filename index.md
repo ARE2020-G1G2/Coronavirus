@@ -1,5 +1,5 @@
 # Coronavirus
-
+L'objectif de notre projet sera de réaliser une simulation pour déterminer le taux de mortalité du virus en (Italie,France)
 Résumé de quelques lignes présentant l'objectif de votre projet, la méthode que vous avez suivie pour le réaliser et les résultats marquants que vous avez obtenus.
 
 ## English version
