@@ -9,6 +9,15 @@ Notre organisation est assez simple, nous nous sommes séparés en 2 groupes Cyr
 Pour le moment, nous sommes encore dans la phase de recherche. C'est-à-dire que nous sommes encore dans la constitution du code. Nous proposons chacun des idées qui pourraient permettre d'avoir un code concis, compréhensible et fonctionnel surtout. On revient vers vous la semaine prochaine avec de nouvelles idées et si nous arrivons à régler ces petits soucis d'ordinateur, peut-être même avec ce qui pourrait s'apparenter à un début de code.
 Cyril Cheng/Eddy Fernandes 
 ### Semaine 2
+Boujour les amis,
+Cette semaine à étais assez difficile, nous avons eu quelque souci informatique donc nous n'avons pas pu commencer à écrire le code, mais nous continuons à faire des recherches pour ne pas prendre de retard 
+Paramétre/condition :
+- personne infecter
+-personne immunisée
+-personne morte 
+la temperature 
+l'âge si + de 60 aura une plus grande chance de mourir/attraper la maladie 
+
 ### Semaine 3
 ### ...
 
