@@ -11,12 +11,12 @@ Cyril Cheng/Eddy Fernandes
 ### Semaine 2
 Boujour les amis,
 Cette semaine à étais assez difficile, nous avons eu quelque souci informatique donc nous n'avons pas pu commencer à écrire le code, mais nous continuons à faire des recherches pour ne pas prendre de retard 
-Paramétre/condition :
-- personne infecter
+Paramétre/condition
+-personne infecter
 -personne immunisée
 -personne morte 
-la temperature 
-l'âge si + de 60 aura une plus grande chance de mourir/attraper la maladie 
+La temperature 
+L'âge si + de 60 aura une plus grande chance de mourir/attraper la maladie 
 
 ### Semaine 3
 ### ...
