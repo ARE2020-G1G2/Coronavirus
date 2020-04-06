@@ -10,15 +10,17 @@ Pour le moment, nous sommes encore dans la phase de recherche. C'est-à-dire que
 Cyril Cheng/Eddy Fernandes 
 ### Semaine 2
 Bonjour les amis,
-Cette semaine à étais assez difficile, nous avons eu quelque souci informatique donc nous n'avons pas pu commencer à écrire le code, mais nous avons déjà quelques idées de condition à mettre dans le code.
+Cette semaine a été assez difficile, nous avons eu quelque souci informatique donc nous n'avons pas pu commencer à écrire le code, mais nous avons déjà quelques idées de condition à mettre dans le code.
 Paramétre/condition
--personne infecter
--personne immunisée
--personne morte 
+-personnes infectées
+-personnes immunisées
+-personnes mortes 
 La température
 L'âge si + de 60 aura une plus grande chance de mourir/attraper la maladie 
 L'âge si - de 60 aura moins de chance de mourir/attraper la maladie 
 ### Semaine 3
+Hello,
+Cette semaine c'est mieux passé que les précédentes, oui enfin une bonne nouvelle ! L'ecriture du code a enfin débuté. Nous sommes en train d'ecrire la modelisation de notre épydémie et nous envisageons un graphique de l'evolution. En ce qui concerne les données, les recherches et le tri se passent bien. Evidemment le travail de groupe à distance se complique de plus en plus mais nous trouvons des solutions petit à petit. 
 ### ...
 
 <a href="index.html"> Retour à la page principale </a>
