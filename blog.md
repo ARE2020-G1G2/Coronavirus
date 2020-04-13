@@ -20,7 +20,11 @@ L'âge si + de 60 aura une plus grande chance de mourir/attraper la maladie
 L'âge si - de 60 aura moins de chance de mourir/attraper la maladie 
 ### Semaine 3
 Hello,
-Cette semaine c'est mieux passé que les précédentes, oui enfin une bonne nouvelle ! L'ecriture du code a enfin débuté. Nous sommes en train d'ecrire la modelisation de notre épydémie et nous envisageons un graphique de l'evolution. En ce qui concerne les données, les recherches et le tri se passent bien. Evidemment le travail de groupe à distance se complique de plus en plus mais nous trouvons des solutions petit à petit. 
-### ...
+Cette semaine, c'est mieux passé que les précédentes, oui enfin une bonne nouvelle ! L'écriture du code a enfin débuté. Nous sommes en train d'écrire la modélisation de notre épidémie et nous envisageons un graphique de l'évolution. En ce qui concerne les données, les recherches et le tri se passent bien. Évidemment, le travail de groupe à distance se complique de plus en plus, mais nous trouvons des solutions petit à petit. 
+### Semaine 4
+Hello,
+Cette semaine Maly et Yoann on continuait les recherches et nous avons fini de modéliser notre épidémie nous avons choisi de le modéliser avec un modèle SEIR. Les valeurs de ce graphique sont très approximatives car les informations que nous avons besoin par exemple le R0 ( c'est ce qui nous permet de connaître le nombre moyen de personnes qu’une personne contagieuse pourrait infecter) changent assez souvent.Nous savons qu'un graphique ne suffit pas donc nous avons commencé à réfléchir sur une simulation de l'épidémie ou sur une présentation d'autre graphique avec des conditions différentes. Nous avons aussi presque fini notre carnet de bord. 
+
+
 
 <a href="index.html"> Retour à la page principale </a>
