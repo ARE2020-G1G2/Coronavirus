@@ -25,6 +25,7 @@ Cette semaine, c'est mieux passé que les précédentes, oui enfin une bonne nou
 Hello,
 Cette semaine Maly et Yoann on continuait les recherches et nous avons fini de modéliser notre épidémie nous avons choisi de le modéliser avec un modèle SEIR. Les valeurs de ce graphique sont très approximatives car les informations que nous avons besoin par exemple le R0 ( c'est ce qui nous permet de connaître le nombre moyen de personnes qu’une personne contagieuse pourrait infecter) changent assez souvent.Nous savons qu'un graphique ne suffit pas donc nous avons commencé à réfléchir sur une simulation de l'épidémie ou sur une présentation d'autre graphique avec des conditions différentes. Nous avons aussi presque fini notre carnet de bord. 
 
-
-
+### Semaine 5
+Hello,
+Cette semaine, on a travaillé sur le code et notre professeur nous a envoyé des documents très intéressants qui nous ont permis de coder deux nouveaux graphiques SEIR mais avec des courbes qui montre le taux d'infecter avec le confinement et sans le confinement .Nous avons aussi commencé à coder "début code" qui sera une animation,ce code va consister à reproduire une matrice qui va montrer l'expansion du coronavirus où l'expansion du coronavirus avec le confinement on ne sait pas encore quel sujet traiter mais  l'expansion du coronavirus avec le confinement aura juste un paramètre en plus donc nous verrons ce que nous pourrons faire.
 <a href="index.html"> Retour à la page principale </a>
