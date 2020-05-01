@@ -1,11 +1,11 @@
 # Coronavirus
-L'objectif de notre projet sera de réaliser une simulation pour déterminer le taux de mortalité du virus en France et de voir s'il est plus dangereux que la grippe 
+
+L'objectif de notre projet vise à montrer la propagation du virus en France en prenant en compter quelque paramètre sociaux tel que le confinement.
 
 Résumé de quelques lignes présentant l'objectif de votre projet, la méthode que vous avez suivie pour le réaliser et les résultats marquants que vous avez obtenus.
 
 ## Covid-19
 
-We've decided to simulate the death rate of the Covid-19 ( in Italy or in Frnace ) in order to determinate which one is the most dangerous between the Covid-19 and the flu.
 Un titre et un résumé en anglais qui reprennent le titre et le résumé en français, mais en anglais pour attirer une audience internationale sur vos travaux !
 
 ## Présentation de l'équipe
