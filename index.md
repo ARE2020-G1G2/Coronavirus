@@ -23,9 +23,9 @@ Un titre et un résumé en anglais qui reprennent le titre et le résumé en fra
 
 **Hypothèses secondaires :** 
 
-**Objectifs :Determiner le taux de mortalité du Virus
+**Objectifs : montrer la propagation du virus en France
 
-**Critère(s) d'évaluation : Evaluer le taux de mort en fonction du nombre d'infectés au cours du temps
+**Critère(s) d'évaluation : 
 
 ## Présentation structurée des résultats
 
